@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=270&text=ROHITH%20SAI&fontSize=76&fontColor=ffffff&color=0:0b1e3d,50:5e17eb,100:0b1e3d&stroke=8b5cf6&strokeWidth=1&animation=fadeIn&fontAlignY=42&desc=WORDPRESS%20FULL%20STACK%20%7C%20AI%20AUTOMATION%20%7C%20SAAS%20BUILDER&descSize=16&descAlignY=64" width="100%" alt="Rohith Sai banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=ROHITH%20SAI&fontSize=78&fontColor=ffffff&color=0:0b1e3d,50:5e17eb,100:0b1e3d&stroke=8b5cf6&strokeWidth=1&animation=twinkling&fontAlignY=42&desc=WORDPRESS%20FULL%20STACK%20%7C%20AI%20AUTOMATION%20%7C%20SAAS%20BUILDER&descSize=16&descAlignY=64" width="100%" alt="Rohith Sai banner"/>
 
 <a href="https://rohit-sai-nizampatnam.github.io/my-portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=820&height=50&lines=I+build+websites+that+think%2C+and+systems+that+run+themselves.;WordPress+Full+Stack+Developer+%26+AI+Automation+Engineer.;Agentic+AI+%7C+RAG+%7C+Multi-agent+pipelines+%7C+LLM+workflows.;Launching+an+AI+CRM+SaaS+platform+in+2026." alt="Typing animation"/>
@@ -22,7 +22,6 @@
 
 <br/><br/>
 
-<!-- NAV BAR -->
 <a href="#about"><img src="https://img.shields.io/badge/ABOUT-0b1e3d?style=flat-square"/></a>
 <a href="#journey"><img src="https://img.shields.io/badge/JOURNEY-0b1e3d?style=flat-square"/></a>
 <a href="#build"><img src="https://img.shields.io/badge/BUILD-0b1e3d?style=flat-square"/></a>
@@ -34,7 +33,6 @@
 
 <br/><br/>
 
-<!-- STAT TILES -->
 <img src="https://img.shields.io/badge/EXPERIENCE-5%2B_YEARS-5e17eb?style=for-the-badge&labelColor=0b1e3d" alt="5+ years"/>
 <img src="https://img.shields.io/badge/WEBSITES-30%2B_SHIPPED-8b5cf6?style=for-the-badge&labelColor=0b1e3d" alt="30+ websites"/>
 <img src="https://img.shields.io/badge/PROJECTS-11_LIVE-5e17eb?style=for-the-badge&labelColor=0b1e3d" alt="11 live projects"/>
@@ -50,7 +48,7 @@
 <br/>
 
 <a id="about"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=84&text=ABOUT%20ME&fontSize=28&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Who%20I%20am%20and%20what%20I%20do&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="About me"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=ABOUT%20ME&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Who%20I%20am%20and%20what%20I%20do&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="About me"/>
 
 <table>
 <tr>
@@ -97,7 +95,7 @@ currently_building:
 <br/>
 
 <a id="journey"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=84&text=THE%20JOURNEY&fontSize=28&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=From%20WordPress%20engineering%20to%20agentic%20AI&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="The journey"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=THE%20JOURNEY&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=From%20WordPress%20engineering%20to%20agentic%20AI&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="The journey"/>
 
 <table>
 <tr>
@@ -127,18 +125,18 @@ currently_building:
 <br/>
 
 <a id="build"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=84&text=WHAT%20I%20BUILD&fontSize=28&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Four%20areas%20of%20focus&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="What I build"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=WHAT%20I%20BUILD&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Four%20areas%20of%20focus&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="What I build"/>
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=46&text=WEB%20DEVELOPMENT&fontSize=16&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Web Development"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=56&text=WEB%20DEVELOPMENT&fontSize=17&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Web Development"/>
 <br/><br/>
 <sub>Custom WordPress solutions, dynamic websites, responsive interfaces and API-driven applications.</sub>
 <br/><br/>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=46&text=E-COMMERCE%20ENGINEERING&fontSize=16&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="E-commerce Engineering"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=56&text=E-COMMERCE%20ENGINEERING&fontSize=17&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="E-commerce Engineering"/>
 <br/><br/>
 <sub>WooCommerce, multi-vendor platforms, product systems and business-focused integrations.</sub>
 <br/><br/>
@@ -146,13 +144,13 @@ currently_building:
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=46&text=WEB%20OPERATIONS&fontSize=16&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Web Operations"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=56&text=WEB%20OPERATIONS&fontSize=17&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Web Operations"/>
 <br/><br/>
 <sub>DNS, Cloudflare, SSL, hosting, deployment, migrations, performance and technical SEO.</sub>
 <br/><br/>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=46&text=AGENTIC%20AI%20%26%20AUTOMATION&fontSize=16&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Agentic AI and Automation"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=56&text=AGENTIC%20AI%20%26%20AUTOMATION&fontSize=17&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Agentic AI and Automation"/>
 <br/><br/>
 <sub>Autonomous intelligence, engineered: AI systems that reason, plan and execute, plus intelligent workflows and automation pipelines.</sub>
 <br/><br/>
@@ -163,7 +161,7 @@ currently_building:
 <br/>
 
 <a id="stack"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=84&text=TOOLS%20THAT%20POWER%20THE%20BUILD&fontSize=28&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Technology%20stack&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="Tools that power the build"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=TOOLS%20THAT%20POWER%20THE%20BUILD&fontSize=28&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Technology%20stack&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="Tools that power the build"/>
 
 <div align="center">
 
@@ -197,7 +195,7 @@ currently_building:
 <br/>
 
 <a id="experience"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=84&text=EXPERIENCE&fontSize=28&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Where%20I%20have%20built&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="Experience"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=EXPERIENCE&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Where%20I%20have%20built&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="Experience"/>
 
 <table>
 <tr>
@@ -225,7 +223,7 @@ currently_building:
 <br/>
 
 <a id="works"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=84&text=SELECTED%20WORKS&fontSize=28&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Eleven%20live%20projects%20across%20IT%2C%20healthcare%2C%20food%2C%20construction%2C%20industrial%20and%20education&descSize=13&descAlignY=68&animation=fadeIn" width="100%" alt="Selected works"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=SELECTED%20WORKS&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Eleven%20live%20projects%20across%20IT%2C%20healthcare%2C%20food%2C%20construction%2C%20industrial%20and%20education&descSize=13&descAlignY=68&animation=fadeIn" width="100%" alt="Selected works"/>
 
 <table>
 <tr>
@@ -277,7 +275,7 @@ currently_building:
 <br/>
 
 <a id="saas"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=84&text=SAAS%20SPOTLIGHT&fontSize=28&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=AI-powered%20CRM%20%26%20team%20monitoring%20platform&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="SaaS spotlight"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=SAAS%20SPOTLIGHT&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=AI-powered%20CRM%20%26%20team%20monitoring%20platform&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="SaaS spotlight"/>
 
 <div align="center">
 
@@ -291,18 +289,18 @@ A unified ecosystem to monitor productivity, automate workflows and unlock AI-dr
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=42&text=MONITOR&fontSize=15&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Monitor"/><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=52&text=MONITOR&fontSize=16&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Monitor"/><br/><br/>
 ✅ Team task monitoring<br/>
 👥 Employee monitoring<br/><br/>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=42&text=AUTOMATE&fontSize=15&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Automate"/><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=52&text=AUTOMATE&fontSize=16&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Automate"/><br/><br/>
 ⚙️ Workflow automation<br/>
 🗂️ CRM management<br/>
 🧠 AI suggestions<br/><br/>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=42&text=UNDERSTAND&fontSize=15&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Understand"/><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=52&text=UNDERSTAND&fontSize=16&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Understand"/><br/><br/>
 📊 Productivity insights<br/>
 📄 Smart reports<br/><br/>
 </td>
@@ -320,7 +318,7 @@ A unified ecosystem to monitor productivity, automate workflows and unlock AI-dr
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=84&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Activity%20and%20contributions&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="GitHub analytics"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=GITHUB%20ANALYTICS&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Activity%20and%20contributions&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="GitHub analytics"/>
 
 <div align="center">
 
@@ -335,7 +333,7 @@ A unified ecosystem to monitor productivity, automate workflows and unlock AI-dr
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=84&text=BEYOND%20THE%20CODE&fontSize=28&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=How%20I%20approach%20the%20work&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="Beyond the code"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=BEYOND%20THE%20CODE&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=How%20I%20approach%20the%20work&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="Beyond the code"/>
 
 <table>
 <tr>
@@ -365,7 +363,7 @@ A unified ecosystem to monitor productivity, automate workflows and unlock AI-dr
 <br/>
 
 <a id="contact"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=84&text=LET%27S%20BUILD%20SOMETHING&fontSize=28&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Available%20for%20new%20projects%20in%202026&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="Let's build something"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=LET%27S%20BUILD%20SOMETHING&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Available%20for%20new%20projects%20in%202026&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="Let's build something"/>
 
 <div align="center">
 
@@ -387,6 +385,6 @@ A unified ecosystem to monitor productivity, automate workflows and unlock AI-dr
 
 <a href="#top"><img src="https://img.shields.io/badge/BACK_TO_TOP_%E2%86%91-0b1e3d?style=flat-square" alt="Back to top"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e3d,50:5e17eb,100:0b1e3d&height=130&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e3d,50:5e17eb,100:0b1e3d&height=150&section=footer&text=Build%20with%20purpose.%20Create%20with%20curiosity.%20Keep%20evolving.&fontSize=17&fontColor=ffffff&fontAlignY=68" width="100%" alt="Footer banner"/>
 
 </div>
