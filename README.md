@@ -1,140 +1,120 @@
+ 
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Rohith Sai - Full Stack Web Developer" />
+# Rohith Sai Nizampatnam
 
-<br/><br/>
+### Web Developer | WordPress Full Stack Developer | Tech Strategist
 
-<a href="https://stagzon.com/rohit-sai/"><img src="https://img.shields.io/badge/Portfolio-4da3ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/rohit-sai-nizampatnam-65a1402b9/"><img src="https://img.shields.io/badge/LinkedIn-0b1e3d?style=for-the-badge&logo=linkedin&logoColor=4da3ff" alt="LinkedIn" /></a>
-<a href="mailto:rohithsainizampatnam@gmail.com"><img src="https://img.shields.io/badge/Email-060a1a?style=for-the-badge&logo=gmail&logoColor=4da3ff" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Hyderabad-India-060a1a?style=for-the-badge&logo=googlemaps&logoColor=4da3ff" alt="Location" />
+**Building websites, web applications and digital experiences with technology and creativity.**
 
-<br/><br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Stagzon-5e17eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stagzon.com/rohit-sai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-sai-nizampatnam-65a1402b9/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithsainizampatnam@gmail.com)
 
-<img src="./assets/counters.svg" width="100%" alt="Career highlights" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e3d,50:5e17eb,100:0b1e3d&height=3" width="100%">
 
 </div>
 
-<br/>
+## 👨‍💻 About Me
 
-<img src="./assets/h-about.svg" width="100%" alt="About Me" />
+I'm a web developer and technology enthusiast with **5+ years of experience** building and managing production websites and digital solutions.
 
-<br/>
+- 🌐 Experience working across 30+ production websites.
+- 💻 Focused on WordPress development and web application solutions.
+- ⚙️ Experienced in custom themes, plugins, WooCommerce and API integrations.
+- 🚀 Interested in AI-powered applications and workflow automation.
+- 🎨 Passionate about UI/UX, branding and digital experiences.
+- 📍 Based in Hyderabad, India.
+- 🏢 Founder of **Stagzon Creative Solutions**.
 
-Full Stack Web Developer and Web Operations Specialist with 5+ years of experience building and maintaining production websites across education, healthcare, enterprise and eCommerce. I work across WordPress development, PHP, frontend technologies, hosting, DNS, SSL, redirects, performance and technical SEO.
+## 🛠️ Technologies & Tools
 
-I enjoy solving practical problems — from building custom website experiences to diagnosing redirect chains, caching conflicts and deployment issues.
+### Frontend Development
 
-- 🧩 WordPress theme, plugin and custom functionality development
-- 🛒 WooCommerce and eCommerce website development
-- 🎨 Responsive interfaces with HTML, CSS and JavaScript
-- ⚙️ PHP, MySQL, REST API integrations and dynamic content
-- 🌐 DNS, Cloudflare, SSL, hosting, migrations and redirects
-- ⚡ Technical SEO, Core Web Vitals and website performance
-- 🤖 Exploring AI integrations, automation and AI-powered products
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-Learning-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<br/>
+### WordPress & Backend
 
-<img src="./assets/h-skills.svg" width="100%" alt="Skills" />
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
-<br/>
+### Platforms & Tools
 
-<div align="center">
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=adobecreativecloud&logoColor=white)
 
-<img src="./assets/skills.svg" width="100%" alt="Technical skills" />
+### Technical Expertise
 
-<br/><br/>
+- Custom WordPress themes and plugin development
+- Elementor, Divi, ACF and Pods
+- WooCommerce and multi-vendor eCommerce
+- PHP, MySQL and REST API integrations
+- Website migrations, DNS, SSL and Cloudflare
+- Technical SEO, GA4, Google Search Console and Core Web Vitals
+- Responsive UI development and website optimisation
+- AI-assisted development and automation workflows
 
-<img src="https://skillicons.dev/icons?i=wordpress,php,mysql,html,css,js,ts,react,bootstrap,git,github,vscode,figma,linux&perline=7&theme=dark" alt="Technology stack" />
+## 💼 Professional Experience
 
-</div>
+| Organisation | Role | Period |
+|---|---|---|
+| **Stagzon Creative Solutions** | Founder & Tech Strategist | 2019 – Present |
+| **Malla Reddy Institutions** | Web Development / Digital Experience | Dec 2024 – Present |
+| **Bhavya Web Technologies Pvt. Ltd.** | WordPress & Frontend Developer | Jan 2021 – Nov 2024 |
 
-<br/>
+## 🚀 Featured Work
 
-<img src="./assets/h-exp.svg" width="100%" alt="Experience" />
+### Institutional & Education Websites
 
-<br/>
+- [Malla Reddy Vishwavidyapeeth](https://mrvv.edu.in/)
+- [Malla Reddy University](https://mrdu.edu.in/)
+- [ACCMAN](https://accman.in/)
 
-<div align="center">
-<img src="./assets/timeline.svg" width="100%" alt="Career timeline" />
-</div>
+### Personal & Business
 
-<br/>
+- [Stagzon Creative Solutions](https://stagzon.com/)
+- [My Portfolio](https://stagzon.com/rohit-sai/)
 
-<img src="./assets/h-projects.svg" width="100%" alt="Featured projects" />
+## 📊 GitHub Statistics
 
-<br/>
-
-<div align="center">
-
-<a href="https://stagzon.com/"><img src="./assets/card1.svg" width="32%" alt="Stagzon" /></a>
-<a href="https://mrvv.edu.in/"><img src="./assets/card2.svg" width="32%" alt="MRVV" /></a>
-<a href="https://mrdu.edu.in/"><img src="./assets/card3.svg" width="32%" alt="MRDU" /></a>
-<br/>
-<a href="https://accman.in/"><img src="./assets/card4.svg" width="32%" alt="ACCMAN" /></a>
-<a href="https://stagzon.com/rohit-sai/"><img src="./assets/card5.svg" width="32%" alt="ReasonForge AI concept and portfolio" /></a>
-<a href="https://stagzon.com/rohit-sai/"><img src="./assets/card6.svg" width="32%" alt="Web operations and portfolio" /></a>
-
-<br/><br/>
-
-More work on my <a href="https://stagzon.com/rohit-sai/">portfolio</a>.
-
-</div>
-
-<br/>
-
-<img src="./assets/h-3d.svg" width="100%" alt="Contribution activity" />
-
-<br/>
-
-<div align="center">
-
-<!-- Generated daily by .github/workflows/profile-3d.yml -->
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
-
-<br/>
-
-<!-- Generated daily by .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<img src="./assets/h-stats.svg" width="100%" alt="GitHub Stats" />
-
-<br/>
+Replace `YOUR_GITHUB_USERNAME` below with your exact GitHub username.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=060a1a&title_color=4da3ff&text_color=e6eeff&icon_color=8b7cff&include_all_commits=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=060a1a&title_color=4da3ff&text_color=e6eeff" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" alt="GitHub statistics">
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most used languages">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&background=060a1a&ring=4da3ff&fire=8b7cff&currStreakNum=ffffff&currStreakLabel=4da3ff&sideNums=ffffff&sideLabels=9db4e6&dates=7f95c9&stroke=1e2d5a&border=1e2d5a" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak">
 
 </div>
 
-<br/>
+## 🤝 Let's Connect
 
-<img src="./assets/h-connect.svg" width="100%" alt="Let's Connect" />
+I'm interested in collaborating on web development, WordPress, eCommerce, AI applications and digital product projects.
 
-<br/>
+- 🌐 Portfolio: https://stagzon.com/rohit-sai/
+- 💼 LinkedIn: https://www.linkedin.com/in/rohit-sai-nizampatnam-65a1402b9/
+- 📧 Email: rohithsainizampatnam@gmail.com
+- 🏢 Company: https://stagzon.com/
 
 <div align="center">
 
-**Have a website or digital product in mind?**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%">
 
-I build and improve WordPress websites, web applications and digital experiences — with a focus on performance, reliability and usability.
+**Thanks for visiting my profile!**
 
-<a href="https://stagzon.com/rohit-sai/"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-4da3ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:rohithsainizampatnam@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-060a1a?style=for-the-badge&logo=gmail&logoColor=4da3ff" alt="Email" /></a>
+*Building. Learning. Creating. Improving.*
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060a1a,50:0f1f4d,100:5e17eb&height=120&section=footer" width="100%" alt="Footer" />
