@@ -1,17 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=ROHITH%20SAI&fontSize=74&fontColor=ffffff&color=0:0b1e3d,50:5e17eb,100:0b1e3d&stroke=8b5cf6&strokeWidth=1&animation=fadeIn&fontAlignY=42&desc=WEB%20DEVELOPER%20%7C%20TECH%20STRATEGIST%20%7C%20BUILDER&descSize=16&descAlignY=64" width="100%" alt="Rohith Sai banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=ROHITH%20SAI&fontSize=74&fontColor=ffffff&color=0:0b1e3d,50:5e17eb,100:0b1e3d&stroke=8b5cf6&strokeWidth=1&animation=fadeIn&fontAlignY=42&desc=WORDPRESS%20FULL%20STACK%20%7C%20AI%20AUTOMATION%20%7C%20SAAS%20BUILDER&descSize=16&descAlignY=64" width="100%" alt="Rohith Sai banner"/>
 
-<a href="https://stagzon.com/rohit-sai/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=I+turn+ideas+into+digital+experiences.;Building+scalable+websites+%26+web+applications.;WordPress+%7C+WooCommerce+%7C+Web+Ops+%7C+AI+Automation.;Currently+exploring+React%2C+TypeScript+%26+Agentic+AI." alt="Typing animation"/>
+<a href="https://rohit-sai-nizampatnam.github.io/my-portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=820&height=50&lines=I+build+websites+that+think%2C+and+systems+that+run+themselves.;WordPress+Full+Stack+Developer+%26+AI+Automation+Engineer.;Agentic+AI+%7C+RAG+%7C+Multi-agent+pipelines+%7C+LLM+workflows.;Launching+an+AI+CRM+SaaS+platform+in+2026." alt="Typing animation"/>
 </a>
 
 <br/>
 
-<a href="https://stagzon.com/rohit-sai/"><img src="https://img.shields.io/badge/PORTFOLIO-5e17eb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://rohit-sai-nizampatnam.github.io/my-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-5e17eb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/rohit-sai-nizampatnam-65a1402b9/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rohithsainizampatnam@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/917330652920"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://stagzon.com/"><img src="https://img.shields.io/badge/STAGZON-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_NEW_PROJECTS_IN_2026-22c55e?style=for-the-badge&labelColor=0b1e3d" alt="Available for new projects in 2026"/>
 
 <br/><br/>
 
@@ -27,28 +32,75 @@
 ```yaml
 name: Rohith Sai Nizampatnam
 location: Hyderabad, India
-role: Web Developer & Tech Strategist
+role: WordPress Full Stack Developer & AI Automation Engineer
+tagline: I build websites that think, and systems that run themselves.
 experience: 5+ Years
 company: Stagzon Creative Solutions
+status: Available for new projects in 2026
+response_time: Within 24 hours
 focus:
   - WordPress & Full Stack Web Development
-  - Web Applications & E-commerce
+  - Agentic AI & Automation Workflows
+  - SaaS Products & Web Applications
   - Website Infrastructure & Optimisation
-  - AI-Powered Solutions & Automation
-currently_exploring:
-  - React.js
-  - TypeScript
-  - Agentic AI
-  - Modern Web Architectures
+currently_building:
+  - AI-powered CRM & team monitoring platform (launching 2026)
 ```
 
-I'm a web developer focused on creating reliable, scalable and visually engaging digital experiences. My work combines development, infrastructure, design and business thinking.
+I'm a WordPress full stack developer who builds scalable websites, AI-powered systems, automation workflows and SaaS products. My work combines development, infrastructure, design and business thinking.
 
-- 🚀 Building and maintaining **30+ production websites**.
+- 🚀 Building and maintaining **30+ production websites**, with **eleven live projects** across IT, healthcare, food, construction, industrial and education.
 - 🧩 Developing custom WordPress themes, plugins and dynamic applications.
-- 🎓 Working with eCommerce, education and enterprise websites.
+- 🤖 Designing AI systems that reason, plan and execute across web, data and operations.
 - ☁️ Managing DNS, Cloudflare, SSL, hosting and website migrations.
-- 🤖 Exploring AI-driven workflows and next-generation web applications.
+- 📈 Building a SaaS product: an AI CRM with team monitoring, launching in 2026.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&text=%E2%9C%A6%20THE%20JOURNEY&fontSize=26&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=52&animation=fadeIn" width="100%" alt="The journey"/>
+
+<table>
+<tr>
+<td width="16%" valign="top" align="center"><img src="https://img.shields.io/badge/2020-5e17eb?style=for-the-badge" alt="2020"/></td>
+<td valign="top">
+
+**WordPress Engineering**
+<br/>
+High-performance themes, plugins and custom architectures.
+
+</td>
+</tr>
+<tr>
+<td valign="top" align="center"><img src="https://img.shields.io/badge/2022-5e17eb?style=for-the-badge" alt="2022"/></td>
+<td valign="top">
+
+**Full Stack & SaaS**
+<br/>
+React, Node.js, custom CRMs and SaaS MVPs.
+
+</td>
+</tr>
+<tr>
+<td valign="top" align="center"><img src="https://img.shields.io/badge/2024-5e17eb?style=for-the-badge" alt="2024"/></td>
+<td valign="top">
+
+**Agentic AI & Automation**
+<br/>
+RAG systems, multi-agent pipelines and LLM workflows.
+
+</td>
+</tr>
+<tr>
+<td valign="top" align="center"><img src="https://img.shields.io/badge/2026-8b5cf6?style=for-the-badge" alt="2026"/></td>
+<td valign="top">
+
+**AI CRM SaaS Platform**
+<br/>
+Launching an AI-powered CRM and team monitoring platform.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -81,9 +133,9 @@ DNS, Cloudflare, SSL, hosting, deployment, migrations, performance and technical
 </td>
 <td width="50%" valign="top">
 
-### ◈ AI & Automation
+### ◈ Agentic AI & Automation
 
-AI-assisted development, intelligent workflows, automation pipelines and emerging AI applications.
+Autonomous intelligence, engineered: AI systems that reason, plan and execute, plus intelligent workflows and automation pipelines.
 
 </td>
 </tr>
@@ -91,7 +143,7 @@ AI-assisted development, intelligent workflows, automation pipelines and emergin
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=64&text=%E2%9C%A6%20TECHNOLOGY%20STACK&fontSize=26&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=52&animation=fadeIn" width="100%" alt="Technology stack"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&text=%E2%9C%A6%20TOOLS%20THAT%20POWER%20THE%20BUILD&fontSize=26&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=52&animation=fadeIn" width="100%" alt="Tools that power the build"/>
 
 <div align="center">
 
@@ -101,7 +153,7 @@ AI-assisted development, intelligent workflows, automation pipelines and emergin
 
 **Backend & CMS**
 
-<img src="https://skillicons.dev/icons?i=php,mysql,wordpress&theme=dark" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=php,mysql,wordpress,nodejs&theme=dark" alt="Backend technologies"/>
 
 **Tools, Infrastructure & Design**
 
@@ -117,7 +169,11 @@ AI-assisted development, intelligent workflows, automation pipelines and emergin
 ![Cloudflare](https://img.shields.io/badge/DNS_&_SSL-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![GA4](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
-<sub>React and TypeScript are areas of active learning and development.</sub>
+**Agentic AI**
+
+![RAG](https://img.shields.io/badge/RAG_Systems-5e17eb?style=for-the-badge)
+![Multi-agent](https://img.shields.io/badge/Multi--Agent_Pipelines-8b5cf6?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM_Workflows-0b1e3d?style=for-the-badge)
 
 </div>
 
@@ -178,7 +234,15 @@ Building digital solutions across web development, branding, UI/UX and AI-enable
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=64&text=%E2%9C%A6%20SELECTED%20PROJECTS&fontSize=26&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=52&animation=fadeIn" width="100%" alt="Selected projects"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&text=%E2%9C%A6%20SELECTED%20WORKS&fontSize=26&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=52&animation=fadeIn" width="100%" alt="Selected works"/>
+
+<div align="center">
+
+**Eleven live projects across IT, healthcare, food, construction, industrial and education.**
+<br/>
+A few highlights:
+
+</div>
 
 <table>
 <tr>
@@ -239,6 +303,45 @@ Creative technology and digital solutions.
 </tr>
 </table>
 
+<div align="center">
+
+<a href="https://rohit-sai-nizampatnam.github.io/my-portfolio/#works"><img src="https://img.shields.io/badge/SEE_ALL_ELEVEN_PROJECTS_%E2%86%97-0b1e3d?style=for-the-badge" alt="See all projects"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&text=%E2%9C%A6%20SAAS%20SPOTLIGHT&fontSize=26&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=52&animation=fadeIn" width="100%" alt="SaaS spotlight"/>
+
+<div align="center">
+
+### AI-powered CRM & team monitoring platform
+
+A unified ecosystem to monitor productivity, automate workflows and unlock AI-driven team intelligence.
+
+<img src="https://img.shields.io/badge/LAUNCHING-2026-8b5cf6?style=for-the-badge&labelColor=0b1e3d" alt="Launching 2026"/>
+<a href="https://rohit-sai-nizampatnam.github.io/my-portfolio/#contact"><img src="https://img.shields.io/badge/JOIN_THE_WAITLIST_%E2%86%97-5e17eb?style=for-the-badge" alt="Join the waitlist"/></a>
+
+<br/><br/>
+
+</div>
+
+| Monitor | Automate | Understand |
+|:--|:--|:--|
+| ✅ Team task monitoring | ⚙️ Workflow automation | 📊 Productivity insights |
+| 👥 Employee monitoring | 🗂️ CRM management | 📄 Smart reports |
+| | 🧠 AI suggestions | |
+
+<div align="center">
+
+<sub>Dashboard preview (sample figures)</sub>
+<br/>
+<img src="https://img.shields.io/badge/ACTIVE_TASKS-128-5e17eb?style=for-the-badge&labelColor=0b1e3d" alt="128 active tasks"/>
+<img src="https://img.shields.io/badge/PRODUCTIVITY-92%25-8b5cf6?style=for-the-badge&labelColor=0b1e3d" alt="92 percent productivity"/>
+<img src="https://img.shields.io/badge/AI_ACTIONS-1.2k-c4b5fd?style=for-the-badge&labelColor=0b1e3d" alt="1.2k AI actions"/>
+
+</div>
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=64&text=%E2%9C%A6%20GITHUB%20ANALYTICS&fontSize=26&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=52&animation=fadeIn" width="100%" alt="GitHub analytics"/>
@@ -273,18 +376,19 @@ Creative technology and digital solutions.
 
 ### Have an idea? Let's make it real.
 
-I'm open to interesting collaborations, development opportunities and conversations around technology.
+Available for new projects in 2026. I reply within 24 hours.
 
 <br/>
 
-<a href="https://stagzon.com/rohit-sai/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-5e17eb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://rohit-sai-nizampatnam.github.io/my-portfolio/#contact"><img src="https://img.shields.io/badge/START_A_PROJECT-5e17eb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:rohithsainizampatnam@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-0b1e3d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/917330652920"><img src="https://img.shields.io/badge/CHAT_ON_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 <br/><br/>
 
 **Rohith Sai Nizampatnam**
 
-*Build with purpose. Create with curiosity. Keep evolving.*
+*I build websites that think, and systems that run themselves.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e3d,50:5e17eb,100:0b1e3d&height=130&section=footer" width="100%" alt="Footer banner"/>
 
