@@ -2,53 +2,49 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=ROHITH%20SAI&fontSize=78&fontColor=ffffff&color=0:0b1e3d,50:5e17eb,100:0b1e3d&stroke=8b5cf6&strokeWidth=1&animation=twinkling&fontAlignY=42&desc=WORDPRESS%20FULL%20STACK%20%7C%20AI%20AUTOMATION%20%7C%20SAAS%20BUILDER&descSize=16&descAlignY=64" width="100%" alt="Rohith Sai banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=ROHITH%20SAI&fontSize=76&fontColor=ffffff&color=0:0b1e3d,50:5e17eb,100:0b1e3d&stroke=8b5cf6&strokeWidth=1&animation=twinkling&fontAlignY=42&desc=WORDPRESS%20FULL%20STACK%20%7C%20AI%20AUTOMATION%20%7C%20SAAS%20BUILDER&descSize=15&descAlignY=66" width="100%" alt="Rohith Sai"/>
 
 <a href="https://rohit-sai-nizampatnam.github.io/my-portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=820&height=50&lines=I+build+websites+that+think%2C+and+systems+that+run+themselves.;WordPress+Full+Stack+Developer+%26+AI+Automation+Engineer.;Agentic+AI+%7C+RAG+%7C+Multi-agent+pipelines+%7C+LLM+workflows.;Launching+an+AI+CRM+SaaS+platform+in+2026." alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=820&height=46&lines=I+build+websites+that+think%2C+and+systems+that+run+themselves.;WordPress+Full+Stack+Developer+%26+AI+Automation+Engineer.;Launching+an+AI+CRM+SaaS+platform+in+2026." alt="Typing animation"/>
 </a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_NEW_PROJECTS_IN_2026-22c55e?style=for-the-badge&labelColor=0b1e3d" alt="Available for new projects in 2026"/>
+<img src="https://img.shields.io/badge/AVAILABLE_FOR_NEW_PROJECTS_IN_2026-22c55e?style=flat-square&labelColor=0b1e3d" alt="Available for new projects in 2026"/>
 
 <br/><br/>
 
-<a href="https://rohit-sai-nizampatnam.github.io/my-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-5e17eb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/rohit-sai-nizampatnam-65a1402b9/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:rohithsainizampatnam@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/917330652920"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://stagzon.com/"><img src="https://img.shields.io/badge/STAGZON-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://rohit-sai-nizampatnam.github.io/my-portfolio/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-5e17eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio"/></a>
+<a href="mailto:rohithsainizampatnam@gmail.com"><img src="https://img.shields.io/badge/START_A_PROJECT-0b1e3d?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a project"/></a>
 
 <br/><br/>
 
-<a href="#about"><img src="https://img.shields.io/badge/ABOUT-0b1e3d?style=flat-square"/></a>
-<a href="#journey"><img src="https://img.shields.io/badge/JOURNEY-0b1e3d?style=flat-square"/></a>
-<a href="#build"><img src="https://img.shields.io/badge/BUILD-0b1e3d?style=flat-square"/></a>
-<a href="#stack"><img src="https://img.shields.io/badge/STACK-0b1e3d?style=flat-square"/></a>
-<a href="#experience"><img src="https://img.shields.io/badge/EXPERIENCE-0b1e3d?style=flat-square"/></a>
-<a href="#works"><img src="https://img.shields.io/badge/WORKS-0b1e3d?style=flat-square"/></a>
-<a href="#saas"><img src="https://img.shields.io/badge/SAAS-0b1e3d?style=flat-square"/></a>
-<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-5e17eb?style=flat-square"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/EXPERIENCE-5%2B_YEARS-5e17eb?style=for-the-badge&labelColor=0b1e3d" alt="5+ years"/>
-<img src="https://img.shields.io/badge/WEBSITES-30%2B_SHIPPED-8b5cf6?style=for-the-badge&labelColor=0b1e3d" alt="30+ websites"/>
-<img src="https://img.shields.io/badge/PROJECTS-11_LIVE-5e17eb?style=for-the-badge&labelColor=0b1e3d" alt="11 live projects"/>
-<img src="https://img.shields.io/badge/AI_SAAS-LAUNCHING_2026-8b5cf6?style=for-the-badge&labelColor=0b1e3d" alt="AI SaaS launching 2026"/>
-
-<br/><br/>
-
-<!-- Replace YOUR_GITHUB_USERNAME here and in the GitHub Analytics section -->
+<a href="https://www.linkedin.com/in/rohit-sai-nizampatnam-65a1402b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://wa.me/917330652920"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://stagzon.com/"><img src="https://img.shields.io/badge/Stagzon-111827?style=flat-square&logo=vercel&logoColor=white" alt="Stagzon"/></a>
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=5e17eb&label=PROFILE+VIEWS" alt="Profile views"/>
+<!-- Replace YOUR_GITHUB_USERNAME above and in the Activity section -->
+
+<br/><br/>
+
+<a href="#about">About</a> &nbsp;·&nbsp; <a href="#journey">Journey</a> &nbsp;·&nbsp; <a href="#build">Build</a> &nbsp;·&nbsp; <a href="#stack">Stack</a> &nbsp;·&nbsp; <a href="#experience">Experience</a> &nbsp;·&nbsp; <a href="#works">Works</a> &nbsp;·&nbsp; <a href="#saas">SaaS</a> &nbsp;·&nbsp; <a href="#contact">Contact</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td width="25%" align="center"><img src="https://capsule-render.vercel.app/api?type=soft&height=120&text=5%2B&fontSize=46&fontColor=ffffff&color=0:101a3d,100:2a1a78&stroke=8b5cf6&strokeWidth=1&fontAlignY=40&desc=YEARS%20EXPERIENCE&descSize=13&descAlignY=76" width="100%" alt="5+ years experience"/></td>
+<td width="25%" align="center"><img src="https://capsule-render.vercel.app/api?type=soft&height=120&text=30%2B&fontSize=46&fontColor=ffffff&color=0:101a3d,100:2a1a78&stroke=8b5cf6&strokeWidth=1&fontAlignY=40&desc=WEBSITES%20SHIPPED&descSize=13&descAlignY=76" width="100%" alt="30+ websites shipped"/></td>
+<td width="25%" align="center"><img src="https://capsule-render.vercel.app/api?type=soft&height=120&text=11&fontSize=46&fontColor=ffffff&color=0:101a3d,100:2a1a78&stroke=8b5cf6&strokeWidth=1&fontAlignY=40&desc=LIVE%20PROJECTS&descSize=13&descAlignY=76" width="100%" alt="11 live projects"/></td>
+<td width="25%" align="center"><img src="https://capsule-render.vercel.app/api?type=soft&height=120&text=2026&fontSize=46&fontColor=ffffff&color=0:101a3d,100:2a1a78&stroke=8b5cf6&strokeWidth=1&fontAlignY=40&desc=AI%20SAAS%20LAUNCH&descSize=13&descAlignY=76" width="100%" alt="AI SaaS launch 2026"/></td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
 <a id="about"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=ABOUT%20ME&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Who%20I%20am%20and%20what%20I%20do&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="About me"/>
+<p align="center"><sub><code>ABOUT</code></sub></p>
+<h2 align="center">Websites that think, systems that run themselves</h2>
 
 <table>
 <tr>
@@ -59,11 +55,11 @@
 
 <p align="center">I build scalable websites, AI-powered systems, automation workflows and SaaS products. My work combines development, infrastructure, design and business thinking.</p>
 
-🚀 **30+ production websites**, eleven live projects<br/>
-🧩 Custom WordPress themes, plugins and apps<br/>
-🤖 AI systems that reason, plan and execute<br/>
-☁️ DNS, Cloudflare, SSL, hosting and migrations<br/>
-📈 Building an AI CRM SaaS, launching 2026
+◆ **30+ production websites**, eleven live projects<br/>
+◆ Custom WordPress themes, plugins and applications<br/>
+◆ AI systems that reason, plan and execute<br/>
+◆ DNS, Cloudflare, SSL, hosting and migrations<br/>
+◆ Building an AI CRM SaaS, launching 2026
 
 </td>
 <td width="54%" valign="top">
@@ -95,28 +91,25 @@ currently_building:
 <br/>
 
 <a id="journey"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=THE%20JOURNEY&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=From%20WordPress%20engineering%20to%20agentic%20AI&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="The journey"/>
+<p align="center"><sub><code>JOURNEY</code></sub></p>
+<h2 align="center">From WordPress engineering to agentic AI</h2>
 
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
-<img src="https://img.shields.io/badge/2020-5e17eb?style=for-the-badge" alt="2020"/><br/><br/>
-<b>WordPress Engineering</b><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&text=2020&fontSize=32&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=WordPress%20Engineering&descSize=13&descAlignY=72" width="100%" alt="2020"/><br/>
 <sub>High-performance themes, plugins and custom architectures.</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="https://img.shields.io/badge/2022-5e17eb?style=for-the-badge" alt="2022"/><br/><br/>
-<b>Full Stack & SaaS</b><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&text=2022&fontSize=32&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Full%20Stack%20%26%20SaaS&descSize=13&descAlignY=72" width="100%" alt="2022"/><br/>
 <sub>React, Node.js, custom CRMs and SaaS MVPs.</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="https://img.shields.io/badge/2024-5e17eb?style=for-the-badge" alt="2024"/><br/><br/>
-<b>Agentic AI & Automation</b><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&text=2024&fontSize=32&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Agentic%20AI&descSize=13&descAlignY=72" width="100%" alt="2024"/><br/>
 <sub>RAG systems, multi-agent pipelines and LLM workflows.</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="https://img.shields.io/badge/2026-8b5cf6?style=for-the-badge" alt="2026"/><br/><br/>
-<b>AI CRM SaaS Platform</b><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=100&text=2026&fontSize=32&fontColor=ffffff&color=0:5e17eb,100:8b5cf6&fontAlignY=38&desc=AI%20CRM%20Platform&descSize=13&descAlignY=72" width="100%" alt="2026"/><br/>
 <sub>Launching an AI-powered CRM and team monitoring platform.</sub>
 </td>
 </tr>
@@ -125,35 +118,28 @@ currently_building:
 <br/>
 
 <a id="build"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=WHAT%20I%20BUILD&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Four%20areas%20of%20focus&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="What I build"/>
+<p align="center"><sub><code>WHAT I BUILD</code></sub></p>
+<h2 align="center">Four areas of focus</h2>
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=56&text=WEB%20DEVELOPMENT&fontSize=17&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Web Development"/>
-<br/><br/>
-<sub>Custom WordPress solutions, dynamic websites, responsive interfaces and API-driven applications.</sub>
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=Web%20Development&fontSize=20&fontColor=ffffff&color=0:101a3d,100:2a1a78&stroke=8b5cf6&strokeWidth=1" width="100%" alt="Web Development"/><br/>
+<sub>Custom WordPress solutions, dynamic websites, responsive interfaces and API-driven applications.</sub><br/><br/>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=56&text=E-COMMERCE%20ENGINEERING&fontSize=17&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="E-commerce Engineering"/>
-<br/><br/>
-<sub>WooCommerce, multi-vendor platforms, product systems and business-focused integrations.</sub>
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=E-commerce%20Engineering&fontSize=20&fontColor=ffffff&color=0:101a3d,100:2a1a78&stroke=8b5cf6&strokeWidth=1" width="100%" alt="E-commerce Engineering"/><br/>
+<sub>WooCommerce, multi-vendor platforms, product systems and business-focused integrations.</sub><br/><br/>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=56&text=WEB%20OPERATIONS&fontSize=17&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Web Operations"/>
-<br/><br/>
-<sub>DNS, Cloudflare, SSL, hosting, deployment, migrations, performance and technical SEO.</sub>
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=Web%20Operations&fontSize=20&fontColor=ffffff&color=0:101a3d,100:2a1a78&stroke=8b5cf6&strokeWidth=1" width="100%" alt="Web Operations"/><br/>
+<sub>DNS, Cloudflare, SSL, hosting, deployment, migrations, performance and technical SEO.</sub><br/><br/>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=56&text=AGENTIC%20AI%20%26%20AUTOMATION&fontSize=17&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Agentic AI and Automation"/>
-<br/><br/>
-<sub>Autonomous intelligence, engineered: AI systems that reason, plan and execute, plus intelligent workflows and automation pipelines.</sub>
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=64&text=Agentic%20AI%20%26%20Automation&fontSize=20&fontColor=ffffff&color=0:101a3d,100:2a1a78&stroke=8b5cf6&strokeWidth=1" width="100%" alt="Agentic AI and Automation"/><br/>
+<sub>Autonomous intelligence, engineered: AI systems that reason, plan and execute, plus intelligent workflows and automation pipelines.</sub><br/><br/>
 </td>
 </tr>
 </table>
@@ -161,60 +147,59 @@ currently_building:
 <br/>
 
 <a id="stack"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=TOOLS%20THAT%20POWER%20THE%20BUILD&fontSize=28&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Technology%20stack&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="Tools that power the build"/>
+<p align="center"><sub><code>TECHNOLOGY STACK</code></sub></p>
+<h2 align="center">Tools that power the build</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FRONTEND-0b1e3d?style=flat-square" alt="Frontend"/><br/>
+<sub><b>FRONTEND</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Frontend technologies"/>
 
-<img src="https://img.shields.io/badge/BACKEND_%26_CMS-0b1e3d?style=flat-square" alt="Backend and CMS"/><br/>
+<sub><b>BACKEND & CMS</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=php,mysql,wordpress,nodejs&theme=dark" alt="Backend technologies"/>
 
-<img src="https://img.shields.io/badge/TOOLS_%26_INFRASTRUCTURE-0b1e3d?style=flat-square" alt="Tools and infrastructure"/><br/>
+<sub><b>TOOLS & INFRASTRUCTURE</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=git,github,cloudflare,figma,linux,vscode&theme=dark" alt="Tools and platforms"/>
 
-<img src="https://img.shields.io/badge/ADDITIONAL_EXPERTISE-0b1e3d?style=flat-square" alt="Additional expertise"/><br/>
-<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
-<img src="https://img.shields.io/badge/Divi-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Advanced_Custom_Fields-00A0D2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DNS_&_SSL-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<sub><b>ADDITIONAL EXPERTISE</b></sub><br/>
+<img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Divi-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Advanced_Custom_Fields-00A0D2?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/>
+<img src="https://img.shields.io/badge/DNS_&_SSL-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AGENTIC_AI-0b1e3d?style=flat-square" alt="Agentic AI"/><br/>
-<img src="https://img.shields.io/badge/RAG_Systems-5e17eb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Agent_Pipelines-8b5cf6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM_Workflows-5e17eb?style=for-the-badge"/>
+<sub><b>AGENTIC AI</b></sub><br/>
+<img src="https://img.shields.io/badge/RAG_Systems-5e17eb?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Pipelines-8b5cf6?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM_Workflows-5e17eb?style=flat-square"/>
 
 </div>
 
 <br/>
 
 <a id="experience"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=EXPERIENCE&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Where%20I%20have%20built&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="Experience"/>
+<p align="center"><sub><code>EXPERIENCE</code></sub></p>
+<h2 align="center">Where I have built</h2>
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
-<img src="https://img.shields.io/badge/DEC_2024_--_PRESENT-5e17eb?style=for-the-badge" alt="Dec 2024 to Present"/><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=84&text=DEC%202024%20%E2%80%94%20PRESENT&fontSize=16&fontColor=ffffff&color=0:5e17eb,100:0b1e3d&fontAlignY=38&desc=Malla%20Reddy%20Institutions&descSize=13&descAlignY=70" width="100%" alt="Malla Reddy Institutions"/><br/>
 <b>Web Development & Digital Experience</b><br/>
-<sub><b>Malla Reddy Institutions</b></sub><br/><br/>
 <sub>Website development, institutional web applications, technical SEO and website operations.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://img.shields.io/badge/JAN_2021_--_NOV_2024-0b1e3d?style=for-the-badge" alt="Jan 2021 to Nov 2024"/><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=84&text=JAN%202021%20%E2%80%94%20NOV%202024&fontSize=16&fontColor=ffffff&color=0:101a3d,100:2a1a78&fontAlignY=38&desc=Bhavya%20Web%20Technologies%20Pvt.%20Ltd.&descSize=13&descAlignY=70" width="100%" alt="Bhavya Web Technologies"/><br/>
 <b>WordPress & Frontend Developer</b><br/>
-<sub><b>Bhavya Web Technologies Pvt. Ltd.</b></sub><br/><br/>
 <sub>WordPress development, frontend implementation and production website delivery.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://img.shields.io/badge/2019_--_PRESENT-5e17eb?style=for-the-badge" alt="2019 to Present"/><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=84&text=2019%20%E2%80%94%20PRESENT&fontSize=16&fontColor=ffffff&color=0:5e17eb,100:0b1e3d&fontAlignY=38&desc=Stagzon%20Creative%20Solutions&descSize=13&descAlignY=70" width="100%" alt="Stagzon Creative Solutions"/><br/>
 <b>Founder & Tech Strategist</b><br/>
-<sub><b>Stagzon Creative Solutions</b></sub><br/><br/>
 <sub>Building digital solutions across web development, branding, UI/UX and AI-enabled services.</sub>
 </td>
 </tr>
@@ -223,7 +208,9 @@ currently_building:
 <br/>
 
 <a id="works"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=SELECTED%20WORKS&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Eleven%20live%20projects%20across%20IT%2C%20healthcare%2C%20food%2C%20construction%2C%20industrial%20and%20education&descSize=13&descAlignY=68&animation=fadeIn" width="100%" alt="Selected works"/>
+<p align="center"><sub><code>SELECTED WORKS</code></sub></p>
+<h2 align="center">Live projects</h2>
+<p align="center"><sub>Eleven live projects across IT, healthcare, food, construction, industrial and education.</sub></p>
 
 <table>
 <tr>
@@ -231,19 +218,19 @@ currently_building:
 <a href="https://mrvv.edu.in/">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20%20%20mrvv.edu.in&fontSize=13&fontColor=a0a8c6&color=0b1020&fontAlign=22&fontAlignY=55" width="100%" alt="Browser bar"/><br/>
 <img src="https://image.thum.io/get/width/800/crop/500/https://mrvv.edu.in/" width="100%" alt="MRVV website preview"/>
-</a>
-<br/><b>MRVV</b><br/>
-<sub>Institutional website and digital experience.</sub><br/><br/>
-<a href="https://mrvv.edu.in/"><img src="https://img.shields.io/badge/VISIT_WEBSITE_%E2%86%97-5e17eb?style=for-the-badge" alt="Visit MRVV"/></a>
+</a><br/>
+<b>MRVV</b><br/>
+<sub>Institutional website and digital experience.</sub><br/>
+<a href="https://mrvv.edu.in/"><img src="https://img.shields.io/badge/VISIT_%E2%86%97-5e17eb?style=flat-square" alt="Visit MRVV"/></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://mrdu.edu.in/">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20%20%20mrdu.edu.in&fontSize=13&fontColor=a0a8c6&color=0b1020&fontAlign=22&fontAlignY=55" width="100%" alt="Browser bar"/><br/>
 <img src="https://image.thum.io/get/width/800/crop/500/https://mrdu.edu.in/" width="100%" alt="MRDU website preview"/>
-</a>
-<br/><b>MRDU</b><br/>
-<sub>University web presence and digital platform.</sub><br/><br/>
-<a href="https://mrdu.edu.in/"><img src="https://img.shields.io/badge/VISIT_WEBSITE_%E2%86%97-5e17eb?style=for-the-badge" alt="Visit MRDU"/></a>
+</a><br/>
+<b>MRDU</b><br/>
+<sub>University web presence and digital platform.</sub><br/>
+<a href="https://mrdu.edu.in/"><img src="https://img.shields.io/badge/VISIT_%E2%86%97-5e17eb?style=flat-square" alt="Visit MRDU"/></a>
 </td>
 </tr>
 <tr>
@@ -251,74 +238,57 @@ currently_building:
 <a href="https://accman.in/">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20%20%20accman.in&fontSize=13&fontColor=a0a8c6&color=0b1020&fontAlign=22&fontAlignY=55" width="100%" alt="Browser bar"/><br/>
 <img src="https://image.thum.io/get/width/800/crop/500/https://accman.in/" width="100%" alt="ACCMAN website preview"/>
-</a>
-<br/><b>ACCMAN</b><br/>
-<sub>Education website and programme-focused digital experience.</sub><br/><br/>
-<a href="https://accman.in/"><img src="https://img.shields.io/badge/VISIT_WEBSITE_%E2%86%97-5e17eb?style=for-the-badge" alt="Visit ACCMAN"/></a>
+</a><br/>
+<b>ACCMAN</b><br/>
+<sub>Education website and programme-focused digital experience.</sub><br/>
+<a href="https://accman.in/"><img src="https://img.shields.io/badge/VISIT_%E2%86%97-5e17eb?style=flat-square" alt="Visit ACCMAN"/></a>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://stagzon.com/">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=34&text=%E2%97%8F%20%E2%97%8F%20%E2%97%8F%20%20%20stagzon.com&fontSize=13&fontColor=a0a8c6&color=0b1020&fontAlign=22&fontAlignY=55" width="100%" alt="Browser bar"/><br/>
 <img src="https://image.thum.io/get/width/800/crop/500/https://stagzon.com/" width="100%" alt="Stagzon website preview"/>
-</a>
-<br/><b>STAGZON</b><br/>
-<sub>Creative technology and digital solutions.</sub><br/><br/>
-<a href="https://stagzon.com/"><img src="https://img.shields.io/badge/VISIT_WEBSITE_%E2%86%97-5e17eb?style=for-the-badge" alt="Visit Stagzon"/></a>
+</a><br/>
+<b>STAGZON</b><br/>
+<sub>Creative technology and digital solutions.</sub><br/>
+<a href="https://stagzon.com/"><img src="https://img.shields.io/badge/VISIT_%E2%86%97-5e17eb?style=flat-square" alt="Visit Stagzon"/></a>
 </td>
 </tr>
 </table>
 
-<div align="center">
-<a href="https://rohit-sai-nizampatnam.github.io/my-portfolio/#works"><img src="https://img.shields.io/badge/SEE_ALL_ELEVEN_PROJECTS_%E2%86%97-0b1e3d?style=for-the-badge" alt="See all projects"/></a>
-</div>
+<p align="center"><a href="https://rohit-sai-nizampatnam.github.io/my-portfolio/#works"><img src="https://img.shields.io/badge/SEE_ALL_ELEVEN_PROJECTS_%E2%86%97-0b1e3d?style=flat-square" alt="See all projects"/></a></p>
 
 <br/>
 
 <a id="saas"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=SAAS%20SPOTLIGHT&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=AI-powered%20CRM%20%26%20team%20monitoring%20platform&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="SaaS spotlight"/>
+<p align="center"><sub><code>SAAS SPOTLIGHT</code></sub></p>
+<h2 align="center">AI-powered CRM & team monitoring platform</h2>
 
-<div align="center">
-
-A unified ecosystem to monitor productivity, automate workflows and unlock AI-driven team intelligence.
-
-<img src="https://img.shields.io/badge/LAUNCHING-2026-8b5cf6?style=for-the-badge&labelColor=0b1e3d" alt="Launching 2026"/>
-<a href="https://rohit-sai-nizampatnam.github.io/my-portfolio/#contact"><img src="https://img.shields.io/badge/JOIN_THE_WAITLIST_%E2%86%97-5e17eb?style=for-the-badge" alt="Join the waitlist"/></a>
-
-</div>
+<a href="https://rohit-sai-nizampatnam.github.io/my-portfolio/#contact">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=140&text=Launching%202026&fontSize=38&fontColor=ffffff&color=0:0b1e3d,50:5e17eb,100:0b1e3d&stroke=8b5cf6&strokeWidth=1&fontAlignY=40&desc=Monitor%20productivity.%20Automate%20workflows.%20Unlock%20AI-driven%20team%20intelligence.&descSize=14&descAlignY=72&animation=fadeIn" width="100%" alt="Join the waitlist"/>
+</a>
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=52&text=MONITOR&fontSize=16&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Monitor"/><br/><br/>
-✅ Team task monitoring<br/>
-👥 Employee monitoring<br/><br/>
-</td>
-<td width="33%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=52&text=AUTOMATE&fontSize=16&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Automate"/><br/><br/>
-⚙️ Workflow automation<br/>
-🗂️ CRM management<br/>
-🧠 AI suggestions<br/><br/>
-</td>
-<td width="33%" align="center" valign="top">
-<img src="https://capsule-render.vercel.app/api?type=soft&height=52&text=UNDERSTAND&fontSize=16&fontColor=ffffff&color=0:5e17eb,100:0b1e3d" width="100%" alt="Understand"/><br/><br/>
-📊 Productivity insights<br/>
-📄 Smart reports<br/><br/>
-</td>
+<td width="33%" align="center" valign="top"><b>MONITOR</b><br/><sub>◆ Team task monitoring<br/>◆ Employee monitoring</sub></td>
+<td width="33%" align="center" valign="top"><b>AUTOMATE</b><br/><sub>◆ Workflow automation<br/>◆ CRM management<br/>◆ AI suggestions</sub></td>
+<td width="33%" align="center" valign="top"><b>UNDERSTAND</b><br/><sub>◆ Productivity insights<br/>◆ Smart reports</sub></td>
 </tr>
 </table>
 
-<div align="center">
+<p align="center"><sub>Dashboard preview, sample figures</sub></p>
 
-<sub>Dashboard preview (sample figures)</sub><br/>
-<img src="https://img.shields.io/badge/ACTIVE_TASKS-128-5e17eb?style=for-the-badge&labelColor=0b1e3d" alt="128 active tasks"/>
-<img src="https://img.shields.io/badge/PRODUCTIVITY-92%25-8b5cf6?style=for-the-badge&labelColor=0b1e3d" alt="92 percent productivity"/>
-<img src="https://img.shields.io/badge/AI_ACTIONS-1.2k-c4b5fd?style=for-the-badge&labelColor=0b1e3d" alt="1.2k AI actions"/>
-
-</div>
+<table>
+<tr>
+<td width="33%" align="center"><img src="https://capsule-render.vercel.app/api?type=soft&height=100&text=128&fontSize=36&fontColor=ffffff&color=0:101a3d,100:2a1a78&stroke=8b5cf6&strokeWidth=1&fontAlignY=40&desc=ACTIVE%20TASKS&descSize=12&descAlignY=74" width="100%" alt="128 active tasks"/></td>
+<td width="33%" align="center"><img src="https://capsule-render.vercel.app/api?type=soft&height=100&text=92%25&fontSize=36&fontColor=ffffff&color=0:101a3d,100:2a1a78&stroke=8b5cf6&strokeWidth=1&fontAlignY=40&desc=PRODUCTIVITY&descSize=12&descAlignY=74" width="100%" alt="92 percent productivity"/></td>
+<td width="33%" align="center"><img src="https://capsule-render.vercel.app/api?type=soft&height=100&text=1.2k&fontSize=36&fontColor=ffffff&color=0:101a3d,100:2a1a78&stroke=8b5cf6&strokeWidth=1&fontAlignY=40&desc=AI%20ACTIONS&descSize=12&descAlignY=74" width="100%" alt="1.2k AI actions"/></td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=GITHUB%20ANALYTICS&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Activity%20and%20contributions&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="GitHub analytics"/>
+<p align="center"><sub><code>ACTIVITY</code></sub></p>
+<h2 align="center">GitHub analytics</h2>
 
 <div align="center">
 
@@ -333,57 +303,41 @@ A unified ecosystem to monitor productivity, automate workflows and unlock AI-dr
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=BEYOND%20THE%20CODE&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=How%20I%20approach%20the%20work&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="Beyond the code"/>
+<p align="center"><sub><code>BEYOND THE CODE</code></sub></p>
+<h2 align="center">How I approach the work</h2>
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top">
-<h1>🧠</h1>
-<b>Product thinking</b><br/>
-<sub>Turning business requirements into practical digital products.</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<h1>🎨</h1>
-<b>Design mindset</b><br/>
-<sub>Creating clean, intuitive and purposeful interfaces.</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<h1>🔧</h1>
-<b>Problem solving</b><br/>
-<sub>Diagnosing complex website, performance and infrastructure issues.</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<h1>📚</h1>
-<b>Continuous learning</b><br/>
-<sub>Exploring modern development tools and AI technologies.</sub>
-</td>
+<td width="25%" align="center" valign="top"><b>Product thinking</b><br/><sub>Turning business requirements into practical digital products.</sub></td>
+<td width="25%" align="center" valign="top"><b>Design mindset</b><br/><sub>Creating clean, intuitive and purposeful interfaces.</sub></td>
+<td width="25%" align="center" valign="top"><b>Problem solving</b><br/><sub>Diagnosing complex website, performance and infrastructure issues.</sub></td>
+<td width="25%" align="center" valign="top"><b>Continuous learning</b><br/><sub>Exploring modern development tools and AI technologies.</sub></td>
 </tr>
 </table>
 
 <br/>
 
 <a id="contact"></a>
-<img src="https://capsule-render.vercel.app/api?type=soft&height=96&text=LET%27S%20BUILD%20SOMETHING&fontSize=30&fontColor=ffffff&color=0:0b1e3d,100:5e17eb&fontAlignY=38&desc=Available%20for%20new%20projects%20in%202026&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="Let's build something"/>
+<p align="center"><sub><code>CONTACT</code></sub></p>
+<h2 align="center">Have an idea? Let's make it real.</h2>
+
+<p align="center"><sub>Available for new projects in 2026. I reply within 24 hours.</sub></p>
+
+<a href="mailto:rohithsainizampatnam@gmail.com">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=150&text=Let%27s%20build%20something&fontSize=38&fontColor=ffffff&color=0:5e17eb,50:3a1a9e,100:0b1e3d&stroke=8b5cf6&strokeWidth=1&fontAlignY=40&desc=rohithsainizampatnam%40gmail.com&descSize=16&descAlignY=72&animation=fadeIn" width="100%" alt="Email Rohith Sai"/>
+</a>
 
 <div align="center">
 
-### Have an idea? Let's make it real.
-
-<sub>I reply within 24 hours.</sub>
-
 <br/>
 
-<a href="https://rohit-sai-nizampatnam.github.io/my-portfolio/#contact"><img src="https://img.shields.io/badge/START_A_PROJECT-5e17eb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:rohithsainizampatnam@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-0b1e3d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/917330652920"><img src="https://img.shields.io/badge/CHAT_ON_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://rohit-sai-nizampatnam.github.io/my-portfolio/#contact"><img src="https://img.shields.io/badge/START_A_PROJECT-5e17eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Start a project"/></a>
+<a href="https://wa.me/917330652920"><img src="https://img.shields.io/badge/CHAT_ON_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp"/></a>
+<a href="https://www.linkedin.com/in/rohit-sai-nizampatnam-65a1402b9/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <br/><br/>
 
-**Rohith Sai Nizampatnam**
-
-*I build websites that think, and systems that run themselves.*
-
-<a href="#top"><img src="https://img.shields.io/badge/BACK_TO_TOP_%E2%86%91-0b1e3d?style=flat-square" alt="Back to top"/></a>
+<sub><a href="#top">Back to top ↑</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e3d,50:5e17eb,100:0b1e3d&height=150&section=footer&text=Build%20with%20purpose.%20Create%20with%20curiosity.%20Keep%20evolving.&fontSize=17&fontColor=ffffff&fontAlignY=68" width="100%" alt="Footer banner"/>
 
