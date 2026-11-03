@@ -1,120 +1,292 @@
  
 <div align="center">
 
-# Rohith Sai Nizampatnam
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=ROHITH%20SAI&fontSize=68&fontColor=ffffff&color=0:0b1e3d,50:5e17eb,100:0b1e3d&stroke=8b5cf6&strokeWidth=1&animation=fadeIn&fontAlignY=45&desc=WEB%20DEVELOPER%20%7C%20TECH%20STRATEGIST%20%7C%20BUILDER&descSize=15&descAlignY=65" width="100%" alt="Rohith Sai banner"/>
 
-### Web Developer | WordPress Full Stack Developer | Tech Strategist
+<br/>
 
-**Building websites, web applications and digital experiences with technology and creativity.**
+<a href="https://stagzon.com/rohit-sai/"><img src="https://img.shields.io/badge/PORTFOLIO-5e17eb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rohit-sai-nizampatnam-65a1402b9/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rohithsainizampatnam@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://stagzon.com/"><img src="https://img.shields.io/badge/STAGZON-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Stagzon-5e17eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://stagzon.com/rohit-sai/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-sai-nizampatnam-65a1402b9/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithsainizampatnam@gmail.com)
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1e3d,50:5e17eb,100:0b1e3d&height=3" width="100%">
+**I turn ideas into digital experiences.**
+
+*Building scalable websites, powerful web applications and thoughtful digital products.*
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=5e17eb&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-## 👨‍💻 About Me
+---
 
-I'm a web developer and technology enthusiast with **5+ years of experience** building and managing production websites and digital solutions.
+## ✦ ABOUT ME
 
-- 🌐 Experience working across 30+ production websites.
-- 💻 Focused on WordPress development and web application solutions.
-- ⚙️ Experienced in custom themes, plugins, WooCommerce and API integrations.
-- 🚀 Interested in AI-powered applications and workflow automation.
-- 🎨 Passionate about UI/UX, branding and digital experiences.
-- 📍 Based in Hyderabad, India.
-- 🏢 Founder of **Stagzon Creative Solutions**.
+```yaml
+name: Rohith Sai Nizampatnam
+location: Hyderabad, India
+role: Web Developer & Tech Strategist
+experience: 5+ Years
+company: Stagzon Creative Solutions
+focus:
+  - WordPress & Full Stack Web Development
+  - Web Applications & E-commerce
+  - Website Infrastructure & Optimisation
+  - AI-Powered Solutions & Automation
+currently_exploring:
+  - React.js
+  - TypeScript
+  - Agentic AI
+  - Modern Web Architectures
+```
 
-## 🛠️ Technologies & Tools
+I'm a web developer focused on creating reliable, scalable and visually engaging digital experiences. My work combines development, infrastructure, design and business thinking.
 
-### Frontend Development
+- Building and maintaining **30+ production websites**.
+- Developing custom WordPress themes, plugins and dynamic applications.
+- Working with eCommerce, education and enterprise websites.
+- Managing DNS, Cloudflare, SSL, hosting and website migrations.
+- Exploring AI-driven workflows and next-generation web applications.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-Learning-61DAFB?style=flat-square&logo=react&logoColor=black)
+---
 
-### WordPress & Backend
+## ✦ WHAT I BUILD
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Platforms & Tools
+### ◈ Web Development
+
+Custom WordPress solutions, dynamic websites, responsive interfaces and API-driven applications.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ E-commerce Engineering
+
+WooCommerce, multi-vendor platforms, product systems and business-focused integrations.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Web Operations
+
+DNS, Cloudflare, SSL, hosting, deployment, migrations, performance and technical SEO.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ AI & Automation
+
+AI-assisted development, intelligent workflows, automation pipelines and emerging AI applications.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✦ TECHNOLOGY STACK
+
+**Frontend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Frontend technologies"/>
+</p>
+
+**Backend & CMS**
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,mysql,wordpress&theme=dark" alt="Backend technologies"/>
+</p>
+
+**Tools, Infrastructure & Design**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,cloudflare,figma,linux,vscode&theme=dark" alt="Tools and platforms"/>
+</p>
+
+**Additional Expertise**
 
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=adobecreativecloud&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Divi](https://img.shields.io/badge/Divi-7C3AED?style=flat-square)
+![ACF](https://img.shields.io/badge/Advanced_Custom_Fields-00A0D2?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![Cloudflare](https://img.shields.io/badge/DNS_&_SSL-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![GA4](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 
-### Technical Expertise
+<sub>React and TypeScript are areas of active learning and development.</sub>
 
-- Custom WordPress themes and plugin development
-- Elementor, Divi, ACF and Pods
-- WooCommerce and multi-vendor eCommerce
-- PHP, MySQL and REST API integrations
-- Website migrations, DNS, SSL and Cloudflare
-- Technical SEO, GA4, Google Search Console and Core Web Vitals
-- Responsive UI development and website optimisation
-- AI-assisted development and automation workflows
+---
 
-## 💼 Professional Experience
+## ✦ EXPERIENCE
 
-| Organisation | Role | Period |
-|---|---|---|
-| **Stagzon Creative Solutions** | Founder & Tech Strategist | 2019 – Present |
-| **Malla Reddy Institutions** | Web Development / Digital Experience | Dec 2024 – Present |
-| **Bhavya Web Technologies Pvt. Ltd.** | WordPress & Frontend Developer | Jan 2021 – Nov 2024 |
+<table>
+<tr>
+<td width="25%" valign="top">
 
-## 🚀 Featured Work
+**2019 — Present**
 
-### Institutional & Education Websites
+</td>
+<td valign="top">
 
-- [Malla Reddy Vishwavidyapeeth](https://mrvv.edu.in/)
-- [Malla Reddy University](https://mrdu.edu.in/)
-- [ACCMAN](https://accman.in/)
+**Founder & Tech Strategist**
 
-### Personal & Business
+**Stagzon Creative Solutions**
 
-- [Stagzon Creative Solutions](https://stagzon.com/)
-- [My Portfolio](https://stagzon.com/rohit-sai/)
+Building digital solutions across web development, branding, UI/UX and AI-enabled services.
 
-## 📊 GitHub Statistics
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-Replace `YOUR_GITHUB_USERNAME` below with your exact GitHub username.
+**Dec 2024 — Present**
+
+</td>
+<td valign="top">
+
+**Web Development & Digital Experience**
+
+**Malla Reddy Institutions**
+
+Website development, institutional web applications, technical SEO and website operations.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Jan 2021 — Nov 2024**
+
+</td>
+<td valign="top">
+
+**WordPress & Frontend Developer**
+
+**Bhavya Web Technologies Pvt. Ltd.**
+
+WordPress development, frontend implementation and production website delivery.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✦ SELECTED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://mrvv.edu.in/">
+<img src="https://image.thum.io/get/width/800/crop/500/https://mrvv.edu.in/" width="100%" alt="MRVV website preview"/>
+</a>
+
+**01 / MRVV**
+
+Institutional website and digital experience.
+
+[Visit Website ↗](https://mrvv.edu.in/)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://mrdu.edu.in/">
+<img src="https://image.thum.io/get/width/800/crop/500/https://mrdu.edu.in/" width="100%" alt="MRDU website preview"/>
+</a>
+
+**02 / MRDU**
+
+University web presence and digital platform.
+
+[Visit Website ↗](https://mrdu.edu.in/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://accman.in/">
+<img src="https://image.thum.io/get/width/800/crop/500/https://accman.in/" width="100%" alt="ACCMAN website preview"/>
+</a>
+
+**03 / ACCMAN**
+
+Education website and programme-focused digital experience.
+
+[Visit Website ↗](https://accman.in/)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://stagzon.com/">
+<img src="https://image.thum.io/get/width/800/crop/500/https://stagzon.com/" width="100%" alt="Stagzon website preview"/>
+</a>
+
+**04 / STAGZON**
+
+Creative technology and digital solutions.
+
+[Visit Website ↗](https://stagzon.com/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✦ GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" alt="GitHub statistics">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0b1020&color=a78bfa&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most used languages">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0b1020&title_color=a78bfa&text_color=cbd5e1&icon_color=8b5cf6&rank_icon=github" alt="GitHub stats"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0b1020&title_color=a78bfa&text_color=cbd5e1" alt="Top languages"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub streak"/>
 
 </div>
 
-## 🤝 Let's Connect
+---
 
-I'm interested in collaborating on web development, WordPress, eCommerce, AI applications and digital product projects.
+## ✦ BEYOND THE CODE
 
-- 🌐 Portfolio: https://stagzon.com/rohit-sai/
-- 💼 LinkedIn: https://www.linkedin.com/in/rohit-sai-nizampatnam-65a1402b9/
-- 📧 Email: rohithsainizampatnam@gmail.com
-- 🏢 Company: https://stagzon.com/
+- **Product thinking:** Turning business requirements into practical digital products.
+- **Design mindset:** Creating clean, intuitive and purposeful interfaces.
+- **Problem solving:** Diagnosing complex website, performance and infrastructure issues.
+- **Continuous learning:** Exploring modern development tools and AI technologies.
+
+---
+
+## ✦ LET'S BUILD SOMETHING
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%">
+### Have an idea? Let's make it real.
 
-**Thanks for visiting my profile!**
+I'm open to interesting collaborations, development opportunities and conversations around technology.
 
-*Building. Learning. Creating. Improving.*
+<br/>
+
+<a href="https://stagzon.com/rohit-sai/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-5e17eb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:rohithsainizampatnam@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-0b1e3d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+**Rohith Sai Nizampatnam**
+
+*Build with purpose. Create with curiosity. Keep evolving.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e3d,50:5e17eb,100:0b1e3d&height=120&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
